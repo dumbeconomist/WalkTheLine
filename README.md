@@ -1,6 +1,6 @@
 # PDF Line Number Tool
 
-Adds line numbers to PDF files based on actual OCR'd text lines.
+Adds line numbers to PDF files based on actual OCR'd text lines. I wrote this because someone asked me to pay $60 American Dollars for this -- and I said "rediculous!" So here it is for you, for free, as well! 
 
 ## Installation
 
